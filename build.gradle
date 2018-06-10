@@ -29,5 +29,7 @@ dependencies {
 	compileOnly('org.projectlombok:lombok:1.18.0')
 
 	testCompile('junit:junit:4.12')
+	testCompile('org.apache.logging.log4j:log4j-core:2.9.1')
+	testCompileOnly('org.projectlombok:lombok:1.18.0')
 	testCompile('org.springframework:spring-test:5.0.5.RELEASE')
 }
