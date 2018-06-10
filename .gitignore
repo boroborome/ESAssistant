@@ -1,6 +1,7 @@
-.iml
 .gradle
 .idea
 build
 config
 out
+*.iml
+target
